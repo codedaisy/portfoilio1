@@ -1,5 +1,5 @@
 # Sample Portfolio
-This portfolio is a small project using the HTML/CSS and Bootstrap. I will be using the this to showcase my projects and skills [LIVE HEROKU DEPLOYMENT](https://portfolio-shubhams.herokuapp.com/)
+This portfolio is a small project using the HTML/CSS and Bootstrap. I will be using the this to showcase my projects and skills [LIVE REPLIT DEPLOYMENT](https://portfoilio1.daisyambani.repl.co)
 
 # Screenshot:
 
